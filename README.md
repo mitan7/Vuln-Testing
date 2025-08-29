@@ -4,8 +4,6 @@ A Vulnerability testing Python Builder script that makes the scanner and then se
 # Some Code
 This is in python. It imports:
 ```
-This uses python. Imports:
-
 import tkinter as tk
 from tkinter import messagebox, scrolledtext
 import os
